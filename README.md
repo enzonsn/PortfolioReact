@@ -21,7 +21,7 @@ This website shows off the projects I have completed and you can gain insight ab
 
 https://enzonsn.github.io/PortfolioReact/
 
-![Demo Image](https://raw.githubusercontent.com/enzonsn/PortfolioReact/blob/main/src/Assets/img.PNG)
+![Demo Image](https://raw.githubusercontent.com/enzonsn/PortfolioReact/main/src/Assets/img.PNG)
 
 
 ## Contributing
